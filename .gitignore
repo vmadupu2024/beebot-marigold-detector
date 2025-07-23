@@ -1,0 +1,4 @@
+# Prevent large folders from being tracked
+Marigold-5/
+__pycache__/
+
